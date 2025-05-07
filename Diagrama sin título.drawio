@@ -4,6 +4,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1" source="ovzpAfmYLOpZnLP-KOeR-1" target="ovzpAfmYLOpZnLP-KOeR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Proveer materiales de calidad&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="21" y="29" width="119" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-2" value="&lt;ul&gt;&lt;li&gt;Sensor de peso&lt;/li&gt;&lt;li&gt;Placa Wifi&lt;/li&gt;&lt;li&gt;Bateria recargable&lt;/li&gt;&lt;li&gt;Contenedor&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;align=left;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="17" y="181" width="127" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ovzpAfmYLOpZnLP-KOeR-4" target="ovzpAfmYLOpZnLP-KOeR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-4" value="Configurar&amp;nbsp; el dispositivo, conectar a wifi y vincular a la app, finalmente registrar el producto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="415" width="152" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-5" value="Previa limpieza del recipiente, colocar fruto seco a granel" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="264" y="401" width="120" height="107" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
