@@ -40,6 +40,21 @@
         <mxCell id="ovzpAfmYLOpZnLP-KOeR-11" value="Producto listo para uso continuo" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="197" y="140" width="120" height="93" as="geometry" />
         </mxCell>
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-13" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=light-dark(#e53838, #ededed);fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="190" y="533" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-15" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=light-dark(#e53838, #ededed);fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="474" y="530" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-16" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=light-dark(#e53838, #ededed);fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="669" y="396" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-17" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=light-dark(#e53838, #ededed);fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="601" y="102" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ovzpAfmYLOpZnLP-KOeR-18" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=light-dark(#e53838, #ededed);fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="241" y="53" width="46" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
